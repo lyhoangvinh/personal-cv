@@ -12,22 +12,14 @@
         "products": "Products",
         "contact": "Contact"
     },
+	
+	"sumany":{
+		"data":{
+		   "value": " I tend to keep myself up to date with important changes in the Android world and regularly look into new ways of solving things. Always looking for new challenges and opportunities."
+		}
+	},
+	
     "introduce": {
-	    "sumany": {
-            "key": "SUMANY",
-            "value": ":",
-            "isShow": true
-        },
-		"tend":{
-		    "value": " I tend to keep myself up to date with important changes in the Android world and regularly look into new ways of solving things. Always looking for new challenges and opportunities.",
-            "key": "",
-            "isShow": true
-		},
-		"passion": {
-            "key": "Passion",
-            "value": " for learning, research on new technologies. Interest in programming.",
-            "isShow": true
-        },
         "full_name": {
             "key": "Full name",
             "value": "LY HOANG VINH",
