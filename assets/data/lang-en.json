@@ -15,12 +15,12 @@
     "introduce": {
         "full_name": {
             "key": "Full name",
-            "value": "PHAM VAN TUAN",
+            "value": "LY HOANG VINH",
             "isShow": true
         },
         "birth_day": {
             "key": "Birthday",
-            "value": "23/04/1994",
+            "value": "27/07/1995",
             "isShow": true
         },
         "gender": {
