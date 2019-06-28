@@ -14,11 +14,15 @@
     },
     "introduce": {
 		"sumany":{
-		  "key": "Summany",
-            "value": "LY HOANG VINH",
+		    "key": "I tend to keep myself up to date with important changes in the Android world and regularly look into new ways of solving things. Always looking for new challenges and opportunities.",
+            "value": "",
             "isShow": true
 		},
-		
+		"full_name": {
+            "key": "*",
+            "value": "Passion for learning, research on new technologies. Interest in programming.",
+            "isShow": true
+        },
         "full_name": {
             "key": "Full name",
             "value": "LY HOANG VINH",
