@@ -71,7 +71,7 @@
         "linked": {
             "key": "Linked",
             "value": "https://www.linkedin.com/in/l%C3%BD-ho%C3%A0ng-vinh-a6201715b/",
-            "isShow": true
+            "isShow": false
         },
         "work": {
             "key": "Android Developer",
