@@ -50,7 +50,7 @@
         },
         "facebook": {
             "key": "Facebook",
-            "value": "",
+            "value": "https://www.facebook.com/lytuvan",
             "isShow": true
         },
         "linked": {
@@ -59,7 +59,7 @@
             "isShow": false
         },
         "work": {
-            "key": "Full Task Developer",
+            "key": "Android Developer",
             "value": "",
             "isShow": false
         },
@@ -148,7 +148,7 @@
             "position": "left",
             "technologies": [
                 {
-                    "name": "HTML5, CSS3",
+                    "name": "Android",
                     "level": 4
                 },
                 {
