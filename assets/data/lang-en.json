@@ -40,26 +40,26 @@
         },
         "address": {
             "key": "Address",
-            "value": "12 District, HCMC, VIETNAM",
+            "value": "5 District, HCMC, VIETNAM",
             "isShow": true
         },
         "email": {
             "key": "Email",
-            "value": "tuanbk2304@gmail.com",
+            "value": "vinh270795@gmail.com",
             "isShow": true
         },
         "facebook": {
             "key": "Facebook",
-            "value": "",
+            "value": "https://www.facebook.com/lytuvan",
             "isShow": false
         },
         "linked": {
             "key": "Linked",
-            "value": "",
+            "value": "https://www.linkedin.com/in/l%C3%BD-ho%C3%A0ng-vinh-a6201715b/",
             "isShow": false
         },
         "work": {
-            "key": "Full Task Developer",
+            "key": "Android Developer",
             "value": "",
             "isShow": false
         },
@@ -97,14 +97,8 @@
     ],
     "educations": [
         {
-            "school": "Ho Chi Minh City University of Technology",
-            "year": "2012 - 2017",
-            "major": "Computer Engineering",
-            "gpa": "6.8/10.0"
-        },
-        {
-            "school": "Ho Chi Minh City University of Technology",
-            "year": "2012 - 2017",
+            "school": "Ho Chi Minh City International University",
+            "year": "2013 - 2018",
             "major": "Computer Engineering",
             "gpa": "6.8/10.0"
         }
