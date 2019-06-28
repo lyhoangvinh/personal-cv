@@ -2,13 +2,9 @@
     <div class="home-page-block-bg">
         <div class="mask"></div>
     </div>
-	 
-	
-   </div>
     <div class="home-page-block">
         <div class="v-align">
             <h2>{{ data.introduce.full_name.value}}</h2>
-	        <h2>{{ data.sumany.data.value}}</h2>		
             <div id="rotate" class="text-rotate">
                 <div>
                     <p class="home-page-description">{{ data.introduce.work.key}}</p>
