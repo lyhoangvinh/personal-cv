@@ -12,17 +12,10 @@
         "products": "Products",
         "contact": "Contact"
     },
-	
-	"sumany":{
-		"data":{
-		   "value": " I tend to keep myself up to date with important changes in the Android world and regularly look into new ways of solving things. Always looking for new challenges and opportunities."
-		}
-	},
-	
     "introduce": {
         "full_name": {
             "key": "Full name",
-            "value": "LY HOANG VINH",
+            "value": "Lý Hoàng Vinh",
             "isShow": true
         },
         "birth_day": {
@@ -57,23 +50,23 @@
         },
         "facebook": {
             "key": "Facebook",
-            "value": "https://www.facebook.com/lytuvan",
+            "value": "",
             "isShow": true
         },
         "linked": {
             "key": "Linked",
-            "value": "https://www.linkedin.com/in/l%C3%BD-ho%C3%A0ng-vinh-a6201715b/",
+            "value": "",
             "isShow": false
         },
         "work": {
-            "key": "Android Developer",
+            "key": "Full Task Developer",
             "value": "",
             "isShow": false
         },
         "hobbies": {
             "key": "Hobbies",
             "value": "",
-            "isShow": true
+            "isShow": false
         },
         "font_end": {
             "key": "Font-end",
@@ -103,6 +96,12 @@
         "Learn experience working and other programming languages."
     ],
     "educations": [
+        {
+            "school": "Ho Chi Minh City International University",
+            "year": "2013 - 2018",
+            "major": "Computer Engineering",
+            "gpa": "6.8/10.0"
+        },
         {
             "school": "Ho Chi Minh City International University",
             "year": "2013 - 2018",
