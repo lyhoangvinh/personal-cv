@@ -1,0 +1,285 @@
+{
+    "about": {
+        "work": "Full Task Developer"
+    },
+    "category": {
+        "introduce": "Introduce",
+        "about": "About",
+        "education_and_experience": "Education & Experience",
+        "education": "Education",
+        "experience": "Experience",
+        "skills": "Skills",
+        "products": "Products",
+        "contact": "Contact"
+    },
+    "introduce": {
+        "full_name": {
+            "key": "Full name",
+            "value": "PHAM VAN TUAN",
+            "isShow": true
+        },
+        "birth_day": {
+            "key": "Birthday",
+            "value": "23/04/1994",
+            "isShow": true
+        },
+        "gender": {
+            "key": "Gender",
+            "value": "Male",
+            "isShow": true
+        },
+        "nation": {
+            "key": "Nation",
+            "value": "Kinh",
+            "isShow": true
+        },
+        "religious": {
+            "key": "Religious",
+            "value": "No",
+            "isShow": true
+        },
+        "address": {
+            "key": "Address",
+            "value": "12 District, HCMC, VIETNAM",
+            "isShow": true
+        },
+        "email": {
+            "key": "Email",
+            "value": "tuanbk2304@gmail.com",
+            "isShow": true
+        },
+        "facebook": {
+            "key": "Facebook",
+            "value": "",
+            "isShow": false
+        },
+        "linked": {
+            "key": "Linked",
+            "value": "",
+            "isShow": false
+        },
+        "work": {
+            "key": "Full Task Developer",
+            "value": "",
+            "isShow": false
+        },
+        "hobbies": {
+            "key": "Hobbies",
+            "value": "",
+            "isShow": true
+        },
+        "font_end": {
+            "key": "Font-end",
+            "value": "",
+            "isShow": false
+        },
+        "back_end": {
+            "key": "Back-end",
+            "value": "",
+            "isShow": false
+        },
+        "tool": {
+            "key": "Tools",
+            "value": "",
+            "isShow": false
+        },
+        "database": {
+            "key": "Database",
+            "value": "",
+            "isShow": false
+        },
+        "experienceYear": "2,5 Years of Experience"
+    },
+    "objective": [
+        "To obtain a position and contribute to the development of the company",
+        "Through the time spent with the company, I was hoping to improve myself in academic, practical and social skill",
+        "Learn experience working and other programming languages."
+    ],
+    "educations": [
+        {
+            "school": "Ho Chi Minh City University of Technology",
+            "year": "2012 - 2017",
+            "major": "Computer Engineering",
+            "gpa": "6.8/10.0"
+        },
+        {
+            "school": "Ho Chi Minh City University of Technology",
+            "year": "2012 - 2017",
+            "major": "Computer Engineering",
+            "gpa": "6.8/10.0"
+        }
+    ],
+    "experiences": {
+        "0": {
+            "time": "February 2018 – Present",
+            "company": "PAXCREATION Company",
+            "position": "Full Task Developer",
+            "tasks": [
+                "Get requirements from Customer.",
+                "Analyze and design database.",
+                "Design UI, Coding, Fix bug."
+            ]
+        },
+        "1": {
+            "time": "September 2017 – February 2018",
+            "company": "Freelancer",
+            "position": "Full Task Developer",
+            "tasks": [
+                "Get requirements from Customer.",
+                "Analyze and design database.",
+                "Design UI, Coding, Fix bug."
+            ]
+        },
+        "2": {
+            "time": "February 2017 – August 2017",
+            "company": "HCOSFACE Company",
+            "position": "Full Task Developer",
+            "tasks": [
+                "Get requirements from Customer.",
+                "Analyze and design database.",
+                "Design UI, Coding, Fix bug."
+            ]
+        }
+    },
+    "skills": [
+        {
+            "name": "Font-end",
+            "level_max": 5,
+            "position": "left",
+            "technologies": [
+                {
+                    "name": "HTML5, CSS3",
+                    "level": 4
+                },
+                {
+                    "name": "JavaScript, ES6, TypeScript",
+                    "level": 4
+                },
+                {
+                    "name": "Bootstrap 3/4",
+                    "level": 3
+                },
+                {
+                    "name": "jQuery",
+                    "level": 4
+                },
+                {
+                    "name": "Angular 1/4/6",
+                    "level": 3
+                },
+                {
+                    "name": "Vue JS",
+                    "level": 4
+                },
+                {
+                    "name": "React JS",
+                    "level": 3
+                },
+                {
+                    "name": "Redux",
+                    "level": 4
+                }
+            ]
+        },
+        {
+            "name": "Back-end",
+            "level_max": 5,
+            "position": "right",
+            "technologies": [
+                {
+                    "name": "PHP",
+                    "level": 3
+                },
+                {
+                    "name": "Node JS",
+                    "level": 3
+                },
+                {
+                    "name": "Laravel 4x/5x",
+                    "level": 3
+                },
+                {
+                    "name": "Express",
+                    "level": 3
+                },
+                {
+                    "name": "REST API",
+                    "level": 3
+                }
+            ]
+        },
+        {
+            "name": "Tool",
+            "level_max": 5,
+            "position": "left",
+            "technologies": [
+                {
+                    "name": "GIT",
+                    "level": 3
+                },
+                {
+                    "name": "Backlog",
+                    "level": 3
+                },
+                {
+                    "name": "NPM",
+                    "level": 3
+                },
+                {
+                    "name": "Webpack",
+                    "level": 3
+                }
+            ]
+        },
+        {
+            "name": "Data base",
+            "level_max": 5,
+            "position": "right",
+            "technologies": [
+                {
+                    "name": "MySQL",
+                    "level": 3
+                },
+                {
+                    "name": "MSSQL",
+                    "level": 3
+                },
+                {
+                    "name": "Mongo DB",
+                    "level": 3
+                },
+                {
+                    "name": "PostgreSQL",
+                    "level": 3
+                }
+            ]
+        }
+    ],
+    "products": [
+        {
+            "name": "Kokotachi website",
+            "time": "2 months",
+            "year": 2018,
+            "member": "6",
+            "position": "Coding",
+            "description": "",
+            "technology_text": "React JS",
+            "technologies": [
+                "React JS",
+                "Bootstrap 4",
+                "jQuery"
+            ],
+            "thumbnail": "kokotachi/1.png",
+            "images": [
+                "kokotachi/1.png",
+                "kokotachi/2.png",
+                "kokotachi/3.jpg",
+                "kokotachi/4.jpg"
+            ]
+        }
+    ],
+    "hobbies": [
+        "Like studying new technology, also the history, the creation and foundation of its.",
+        "Like play football, badminton, table tennis"
+    ]
+}
