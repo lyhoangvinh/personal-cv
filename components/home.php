@@ -1,4 +1,4 @@
-<section class="pt-page pt-page-1 section-with-bg section-paddings-0" style="background-image: url(assets/images/cv.pdf);" data-id="home">
+<section class="pt-page pt-page-1 section-with-bg section-paddings-0" style="background-image: url(assets/images/home_page_bg_2.jpg);" data-id="home">
     <div class="home-page-block-bg">
         <div class="mask"></div>
     </div>
