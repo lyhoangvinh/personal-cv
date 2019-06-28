@@ -13,6 +13,12 @@
         "contact": "Contact"
     },
     "introduce": {
+		"sumany":{
+		  "key": "Summany",
+            "value": "LY HOANG VINH",
+            "isShow": true
+		},
+		
         "full_name": {
             "key": "Full name",
             "value": "LY HOANG VINH",
@@ -51,12 +57,12 @@
         "facebook": {
             "key": "Facebook",
             "value": "https://www.facebook.com/lytuvan",
-            "isShow": false
+            "isShow": true
         },
         "linked": {
             "key": "Linked",
             "value": "https://www.linkedin.com/in/l%C3%BD-ho%C3%A0ng-vinh-a6201715b/",
-            "isShow": false
+            "isShow": true
         },
         "work": {
             "key": "Android Developer",
